@@ -1,0 +1,1 @@
+This project is a simple interactive image gallery built using HTML, CSS, and JavaScript. It allows users to click on thumbnail images and view them in a larger, expanded format. The gallery provides a user-friendly way to browse a collection of images in a visually appealing layout.
